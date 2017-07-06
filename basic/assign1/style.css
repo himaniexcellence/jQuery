@@ -1,0 +1,28 @@
+body{
+	background-color : #83b6f8;
+}
+#body{
+	width : 100%;
+	height : 100%;
+	background-color : #fffcd9;
+}
+#top{
+	width : 100%;
+	height : 10%; 
+	background-color : #a3c9ff;
+	text-align: center;
+}
+#content{
+	width : 100%;
+	height : 90%;
+	text-align : center;
+}
+h1{
+	color : #0a1dff;
+}
+.star{
+	color : red;
+}
+form .error{
+ color: red;
+}
